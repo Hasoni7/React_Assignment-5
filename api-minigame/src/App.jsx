@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from "react";
 import "./styles/global.css";
 import MainPage from "./pages/MainPage";

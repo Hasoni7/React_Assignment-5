@@ -1,9 +1,11 @@
-import React from "react";
+import CatFact from "../components/CatFact";
+import "../styles/MainPage.css";
 
 function MainPage() {
   return (
-    <div>
-      <h1>Welcome to the Main Page</h1>
+    <div className="mainPage">
+      <h1>API Minigame</h1>
+      <CatFact />
     </div>
   );
 }

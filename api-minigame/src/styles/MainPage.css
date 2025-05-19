@@ -1,0 +1,6 @@
+.mainPage {
+  max-width: 700px;
+  margin: 2rem auto; /* centers horizontally and adds vertical spacing */
+  text-align: center;
+  padding: 0 1rem;
+}

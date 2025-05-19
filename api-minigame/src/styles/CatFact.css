@@ -1,0 +1,36 @@
+.catFact-container {
+  padding: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.catFact-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.catFact-text {
+  font-style: italic;
+  margin-bottom: 1rem;
+  color: #43463c;
+}
+
+.catFact-button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #8593d3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.catFact-button:hover {
+  background-color: #00a31b;
+}
+
+.catFact-message {
+  margin-top: 1rem;
+  color: #555;
+  font-weight: bold;
+}
