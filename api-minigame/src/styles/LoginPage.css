@@ -1,0 +1,40 @@
+.login-container {
+  max-width: 400px;
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.login-container input {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.5rem;
+  width: 100%;
+  max-width: 300px;
+}
+
+.login-container button {
+  padding: 0.5rem 1rem;
+}
+
+.login-container .error {
+  color: red;
+  margin-top: 1rem;
+}
+.login-container .success {
+  color: green;
+  margin-top: 1rem;
+}
+
+.login-container button {
+  margin: 1rem auto;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: #8593d3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-container button:hover {
+  background-color: #586ed3;
+}

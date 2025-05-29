@@ -16,7 +16,7 @@ function CatFact() {
         setMessage(
           "This fact was more than enough for today. Come back tomorrow for more "
         );
-        setIsLocked(true); // disable the button
+        setIsLocked(true); // disable the button if the fact is too long
       } else {
         setMessage("Here’s your cat fact! ");
       }
